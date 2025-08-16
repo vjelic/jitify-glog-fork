@@ -12,7 +12,7 @@
           "informationUri": "https://www.glog.ai",
           "rules": [
             {
-              "id": "glog-9fedb29d-0e17-48f7-99e4-63824ffeec91",
+              "id": "glog-8b8cd6f4-dc16-4a59-a603-35dd32d986e2",
               "help": {
                 "text": ""
               },
@@ -23,7 +23,7 @@
               }
             },
             {
-              "id": "glog-18f3851e-05f1-4afe-9e05-1e129f465abc",
+              "id": "glog-afc0064d-b98c-4f61-8932-a26566c6d38a",
               "help": {
                 "text": ""
               },
@@ -34,7 +34,7 @@
               }
             },
             {
-              "id": "glog-5a265e7d-7065-4377-aaa8-f2465b131983",
+              "id": "glog-7d51f7e2-1394-4ea6-9d94-7452da67a201",
               "help": {
                 "text": ""
               },
@@ -45,7 +45,7 @@
               }
             },
             {
-              "id": "glog-69cef499-7979-4f75-90ae-30b31152bf68",
+              "id": "glog-1f5f03b3-18c1-460d-ad04-13657453c650",
               "help": {
                 "text": ""
               },
@@ -56,7 +56,7 @@
               }
             },
             {
-              "id": "glog-5ca564c2-cec4-4585-b30a-ea106859bd07",
+              "id": "glog-96705cde-9aaf-4fb4-8a57-61a84179ebbb",
               "help": {
                 "text": ""
               },
@@ -67,7 +67,7 @@
               }
             },
             {
-              "id": "glog-9acffcaf-1dc6-4401-81e7-d6850a899daa",
+              "id": "glog-00ee3b04-3f38-43ea-bc5f-800cfd0c3621",
               "help": {
                 "text": ""
               },
@@ -78,7 +78,29 @@
               }
             },
             {
-              "id": "glog-31db7fe7-9deb-4e19-a3f8-887acad4f2d1",
+              "id": "glog-d77e7fdc-752b-4159-a88d-d332f9cfe191",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS154189"
+                ]
+              }
+            },
+            {
+              "id": "glog-0dbd720f-3d4f-42ad-8140-4c951193c0fd",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS154189"
+                ]
+              }
+            },
+            {
+              "id": "glog-0933af99-f2a0-44e4-b124-825c1090c576",
               "help": {
                 "text": ""
               },
@@ -89,7 +111,7 @@
               }
             },
             {
-              "id": "glog-01d7b738-de44-4fdb-9145-2cdd9e5a24c7",
+              "id": "glog-e63d8f05-d1a7-4563-a33c-4a0e35b7f6da",
               "help": {
                 "text": ""
               },
@@ -100,7 +122,7 @@
               }
             },
             {
-              "id": "glog-7a8a5eb2-0a81-42dc-b11f-e5c9c67c129c",
+              "id": "glog-c65ed5a7-2340-4154-9201-2551246666b0",
               "help": {
                 "text": ""
               },
@@ -111,7 +133,7 @@
               }
             },
             {
-              "id": "glog-4d2fc30a-8f3e-403c-85fb-4bdf4044ea15",
+              "id": "glog-af0576e2-93e6-432b-a01a-5ed3647406f2",
               "help": {
                 "text": ""
               },
@@ -122,7 +144,7 @@
               }
             },
             {
-              "id": "glog-5abb924d-3653-4e59-8c4a-d0ae6c235ff3",
+              "id": "glog-1bc2c741-cae8-4edb-acb2-543706c87d85",
               "help": {
                 "text": ""
               },
@@ -133,7 +155,7 @@
               }
             },
             {
-              "id": "glog-90960e02-c5f2-4804-b7f0-ce42c0d58491",
+              "id": "glog-0fd54bdb-ee00-444b-9d15-9581d52b2652",
               "help": {
                 "text": ""
               },
@@ -144,7 +166,7 @@
               }
             },
             {
-              "id": "glog-a1af01e8-6c77-4d5e-bcd9-2eb22c60af10",
+              "id": "glog-39580d19-29f4-43f9-9463-658e4349ed27",
               "help": {
                 "text": ""
               },
@@ -155,7 +177,7 @@
               }
             },
             {
-              "id": "glog-e7677261-6610-4db7-8ccb-53745c44498d",
+              "id": "glog-40e36ed5-fef8-41cf-92cd-1375e6fbbe1d",
               "help": {
                 "text": ""
               },
@@ -166,7 +188,7 @@
               }
             },
             {
-              "id": "glog-d616356f-ab1b-48bf-ad08-b2f745a9c0c0",
+              "id": "glog-8ade245e-fed2-43bc-84cd-83f5dbd0bc74",
               "help": {
                 "text": ""
               },
@@ -177,7 +199,7 @@
               }
             },
             {
-              "id": "glog-044d678d-b34d-4074-917c-bb721df63a64",
+              "id": "glog-c9acf46b-6313-4e2e-90b8-cd79c144481f",
               "help": {
                 "text": ""
               },
@@ -188,7 +210,7 @@
               }
             },
             {
-              "id": "glog-f25e2898-3c83-44d1-a4f1-59f3fad20a1c",
+              "id": "glog-a3ba2e22-3e5c-4dee-af47-079e859f6c1a",
               "help": {
                 "text": ""
               },
@@ -199,7 +221,7 @@
               }
             },
             {
-              "id": "glog-004c32ce-7cd5-4201-b30b-ba4b17350f4d",
+              "id": "glog-bbad5491-73e3-42f1-9cfd-d3894e8a8562",
               "help": {
                 "text": ""
               },
@@ -210,7 +232,7 @@
               }
             },
             {
-              "id": "glog-0694a29c-e756-44fd-be81-37c44fa70e08",
+              "id": "glog-ae1e61e0-2883-4b0e-af59-2d0c22f4bbdb",
               "help": {
                 "text": ""
               },
@@ -221,7 +243,7 @@
               }
             },
             {
-              "id": "glog-868fa873-e1e6-48bc-a7c8-3a2444f44589",
+              "id": "glog-7b6b228c-54c8-45dc-883c-9bd136533662",
               "help": {
                 "text": ""
               },
@@ -232,7 +254,7 @@
               }
             },
             {
-              "id": "glog-5e1ddf5c-135b-42a8-b94b-845ca6d501e5",
+              "id": "glog-55264f00-ff90-4dfc-8e32-ac29de24da6d",
               "help": {
                 "text": ""
               },
@@ -243,7 +265,7 @@
               }
             },
             {
-              "id": "glog-f2b9f852-63d1-494d-b283-7386de05e0c8",
+              "id": "glog-b2c216a6-9925-4fe8-aebc-87d3b80f14b6",
               "help": {
                 "text": ""
               },
@@ -254,7 +276,7 @@
               }
             },
             {
-              "id": "glog-0022c64f-b629-4c23-8a24-e22200f8d5b4",
+              "id": "glog-40556b8c-1cdc-45a3-9763-c6f854d889fa",
               "help": {
                 "text": ""
               },
@@ -265,7 +287,7 @@
               }
             },
             {
-              "id": "glog-b7898988-cef9-4dde-9f1f-b536116abc74",
+              "id": "glog-bc331af3-6176-495e-b6d9-dafb0f41d094",
               "help": {
                 "text": ""
               },
@@ -276,7 +298,7 @@
               }
             },
             {
-              "id": "glog-8fbb91a8-fb0d-4dd7-9d5b-0cc3c5a10fc9",
+              "id": "glog-4150ff62-3dbc-4ac9-9348-44e77d6f5ccd",
               "help": {
                 "text": ""
               },
@@ -287,7 +309,7 @@
               }
             },
             {
-              "id": "glog-0a360a65-7f32-45d5-a2f9-1209c743ed0c",
+              "id": "glog-9c199c19-0046-491c-8247-6f85007f6a90",
               "help": {
                 "text": ""
               },
@@ -298,7 +320,7 @@
               }
             },
             {
-              "id": "glog-9c38a46d-acbe-438e-bf4e-e851163c3a1d",
+              "id": "glog-39198da6-310a-4d93-8d50-2b5a3a495d1b",
               "help": {
                 "text": ""
               },
@@ -309,7 +331,7 @@
               }
             },
             {
-              "id": "glog-d9f5bbe7-4565-4c34-b547-59f01ac121aa",
+              "id": "glog-087aeabc-9972-448e-a1d3-d536fb1329d0",
               "help": {
                 "text": ""
               },
@@ -320,7 +342,7 @@
               }
             },
             {
-              "id": "glog-dfcb6144-ddc4-45a2-ad7d-98e46161e3f0",
+              "id": "glog-7cf4b5f1-fb54-4ad7-b089-5184a9b7cff0",
               "help": {
                 "text": ""
               },
@@ -331,7 +353,7 @@
               }
             },
             {
-              "id": "glog-0b132912-0072-4fa1-8af4-8e1a09f01614",
+              "id": "glog-c51793a1-bb2d-4ff1-ab52-7462f559ea93",
               "help": {
                 "text": ""
               },
@@ -342,7 +364,7 @@
               }
             },
             {
-              "id": "glog-d6eee37d-eabe-4a93-8946-454e9342381e",
+              "id": "glog-5c045209-bdf1-47ae-a7fa-736f934c32f9",
               "help": {
                 "text": ""
               },
@@ -353,7 +375,7 @@
               }
             },
             {
-              "id": "glog-4109e274-8fd1-4800-b54f-69cd051ea75c",
+              "id": "glog-358f307a-c004-400e-a133-e391ac8af894",
               "help": {
                 "text": ""
               },
@@ -364,7 +386,7 @@
               }
             },
             {
-              "id": "glog-9996b67a-e094-4d76-b344-e35265463e44",
+              "id": "glog-60817281-1c12-45a5-beab-0368616a79f1",
               "help": {
                 "text": ""
               },
@@ -386,45 +408,7 @@
       "language": "en-US",
       "results": [
         {
-          "ruleId": "glog-2d030dee-34a7-4c20-aee2-2f3768f6aedd",
-          "kind": "fail",
-          "level": "warning",
-          "message": {},
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": "jitify2_hip.hpp"
-                },
-                "region": {
-                  "startLine": 5559,
-                  "startColumn": 43,
-                  "endLine": 5559,
-                  "endColumn": 49,
-                  "charOffset": 199815,
-                  "charLength": 6,
-                  "snippet": {
-                    "text": "getenv",
-                    "rendered": {
-                      "text": "getenv",
-                      "markdown": "`getenv`"
-                    }
-                  },
-                  "sourceLanguage": "cpp"
-                }
-              }
-            }
-          ],
-          "properties": {
-            "DevSkimSeverity": "Moderate",
-            "DevSkimConfidence": "High",
-            "tags": [
-              "API.DangerousAPI.BannedFunction"
-            ]
-          }
-        },
-        {
-          "ruleId": "glog-9fedb29d-0e17-48f7-99e4-63824ffeec91",
+          "ruleId": "glog-8b8cd6f4-dc16-4a59-a603-35dd32d986e2",
           "kind": "fail",
           "level": "warning",
           "message": {},
@@ -462,7 +446,7 @@
           }
         },
         {
-          "ruleId": "glog-18f3851e-05f1-4afe-9e05-1e129f465abc",
+          "ruleId": "glog-afc0064d-b98c-4f61-8932-a26566c6d38a",
           "kind": "fail",
           "level": "note",
           "message": {},
@@ -548,7 +532,7 @@
           }
         },
         {
-          "ruleId": "glog-5a265e7d-7065-4377-aaa8-f2465b131983",
+          "ruleId": "glog-7d51f7e2-1394-4ea6-9d94-7452da67a201",
           "kind": "fail",
           "level": "warning",
           "message": {},
@@ -559,17 +543,17 @@
                   "uri": "jitify2_cuda.hpp"
                 },
                 "region": {
-                  "startLine": 5363,
-                  "startColumn": 8,
-                  "endLine": 5363,
-                  "endColumn": 13,
-                  "charOffset": 194377,
-                  "charLength": 5,
+                  "startLine": 5450,
+                  "startColumn": 21,
+                  "endLine": 5450,
+                  "endColumn": 25,
+                  "charOffset": 197824,
+                  "charLength": 4,
                   "snippet": {
-                    "text": "ctime",
+                    "text": "atoi",
                     "rendered": {
-                      "text": "ctime",
-                      "markdown": "`ctime`"
+                      "text": "atoi",
+                      "markdown": "`atoi`"
                     }
                   },
                   "sourceLanguage": "cpp"
@@ -586,7 +570,45 @@
           }
         },
         {
-          "ruleId": "glog-69cef499-7979-4f75-90ae-30b31152bf68",
+          "ruleId": "glog-1f5f03b3-18c1-460d-ad04-13657453c650",
+          "kind": "fail",
+          "level": "warning",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_hip.hpp"
+                },
+                "region": {
+                  "startLine": 5559,
+                  "startColumn": 43,
+                  "endLine": 5559,
+                  "endColumn": 49,
+                  "charOffset": 199815,
+                  "charLength": 6,
+                  "snippet": {
+                    "text": "getenv",
+                    "rendered": {
+                      "text": "getenv",
+                      "markdown": "`getenv`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Moderate",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-96705cde-9aaf-4fb4-8a57-61a84179ebbb",
           "kind": "fail",
           "level": "warning",
           "message": {},
@@ -624,7 +646,45 @@
           }
         },
         {
-          "ruleId": "glog-5ca564c2-cec4-4585-b30a-ea106859bd07",
+          "ruleId": "glog-00ee3b04-3f38-43ea-bc5f-800cfd0c3621",
+          "kind": "fail",
+          "level": "warning",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_cuda.hpp"
+                },
+                "region": {
+                  "startLine": 5363,
+                  "startColumn": 8,
+                  "endLine": 5363,
+                  "endColumn": 13,
+                  "charOffset": 194377,
+                  "charLength": 5,
+                  "snippet": {
+                    "text": "ctime",
+                    "rendered": {
+                      "text": "ctime",
+                      "markdown": "`ctime`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Moderate",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-d77e7fdc-752b-4159-a88d-d332f9cfe191",
           "kind": "fail",
           "level": "warning",
           "message": {},
@@ -662,7 +722,7 @@
           }
         },
         {
-          "ruleId": "glog-9acffcaf-1dc6-4401-81e7-d6850a899daa",
+          "ruleId": "glog-0dbd720f-3d4f-42ad-8140-4c951193c0fd",
           "kind": "fail",
           "level": "warning",
           "message": {},
@@ -700,93 +760,7 @@
           }
         },
         {
-          "ruleId": "glog-31db7fe7-9deb-4e19-a3f8-887acad4f2d1",
-          "kind": "fail",
-          "level": "error",
-          "message": {},
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": "jitify2_hip.hpp"
-                },
-                "region": {
-                  "startLine": 3613,
-                  "startColumn": 6,
-                  "endLine": 3613,
-                  "endColumn": 41,
-                  "charOffset": 134506,
-                  "charLength": 35,
-                  "snippet": {
-                    "text": "strcat(char* dest, const char* src)",
-                    "rendered": {
-                      "text": "strcat(char* dest, const char* src)",
-                      "markdown": "`strcat(char* dest, const char* src)`"
-                    }
-                  },
-                  "sourceLanguage": "cpp"
-                }
-              }
-            }
-          ],
-          "fixes": [
-            {
-              "description": {
-                "text": "If the combination of strings is larger than the destination buffer, strcat will cbuffer overflow the destination buffer"
-              },
-              "artifactChanges": [
-                {
-                  "artifactLocation": {
-                    "uri": "jitify2_hip.hpp"
-                  },
-                  "replacements": [
-                    {
-                      "deletedRegion": {
-                        "charOffset": 134506,
-                        "charLength": 35
-                      },
-                      "insertedContent": {
-                        "text": "strcat_s(char* dest, <size of char* dest>,  const char* src)"
-                      }
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "description": {
-                "text": "If the combination of strings is larger than the destination buffer, strcat will cbuffer overflow the destination buffer"
-              },
-              "artifactChanges": [
-                {
-                  "artifactLocation": {
-                    "uri": "jitify2_hip.hpp"
-                  },
-                  "replacements": [
-                    {
-                      "deletedRegion": {
-                        "charOffset": 134506,
-                        "charLength": 35
-                      },
-                      "insertedContent": {
-                        "text": "strlcat(char* dest,  const char* src, <size of char* dest>)"
-                      }
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "properties": {
-            "DevSkimSeverity": "Important",
-            "DevSkimConfidence": "High",
-            "tags": [
-              "API.DangerousAPI.BannedFunction"
-            ]
-          }
-        },
-        {
-          "ruleId": "glog-01d7b738-de44-4fdb-9145-2cdd9e5a24c7",
+          "ruleId": "glog-0933af99-f2a0-44e4-b124-825c1090c576",
           "kind": "fail",
           "level": "error",
           "message": {},
@@ -872,7 +846,93 @@
           }
         },
         {
-          "ruleId": "glog-7a8a5eb2-0a81-42dc-b11f-e5c9c67c129c",
+          "ruleId": "glog-e63d8f05-d1a7-4563-a33c-4a0e35b7f6da",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_hip.hpp"
+                },
+                "region": {
+                  "startLine": 3613,
+                  "startColumn": 6,
+                  "endLine": 3613,
+                  "endColumn": 41,
+                  "charOffset": 134506,
+                  "charLength": 35,
+                  "snippet": {
+                    "text": "strcat(char* dest, const char* src)",
+                    "rendered": {
+                      "text": "strcat(char* dest, const char* src)",
+                      "markdown": "`strcat(char* dest, const char* src)`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If the combination of strings is larger than the destination buffer, strcat will cbuffer overflow the destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_hip.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 134506,
+                        "charLength": 35
+                      },
+                      "insertedContent": {
+                        "text": "strcat_s(char* dest, <size of char* dest>,  const char* src)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If the combination of strings is larger than the destination buffer, strcat will cbuffer overflow the destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_hip.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 134506,
+                        "charLength": 35
+                      },
+                      "insertedContent": {
+                        "text": "strlcat(char* dest,  const char* src, <size of char* dest>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-c65ed5a7-2340-4154-9201-2551246666b0",
           "kind": "fail",
           "level": "error",
           "message": {},
@@ -958,7 +1018,7 @@
           }
         },
         {
-          "ruleId": "glog-4d2fc30a-8f3e-403c-85fb-4bdf4044ea15",
+          "ruleId": "glog-af0576e2-93e6-432b-a01a-5ed3647406f2",
           "kind": "fail",
           "level": "error",
           "message": {},
@@ -1044,7 +1104,7 @@
           }
         },
         {
-          "ruleId": "glog-5abb924d-3653-4e59-8c4a-d0ae6c235ff3",
+          "ruleId": "glog-1bc2c741-cae8-4edb-acb2-543706c87d85",
           "kind": "fail",
           "level": "note",
           "message": {},
@@ -1130,7 +1190,7 @@
           }
         },
         {
-          "ruleId": "glog-90960e02-c5f2-4804-b7f0-ce42c0d58491",
+          "ruleId": "glog-0fd54bdb-ee00-444b-9d15-9581d52b2652",
           "kind": "fail",
           "level": "warning",
           "message": {},
@@ -1168,131 +1228,7 @@
           }
         },
         {
-          "ruleId": "glog-a1af01e8-6c77-4d5e-bcd9-2eb22c60af10",
-          "kind": "fail",
-          "level": "note",
-          "message": {},
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": "jitify2_cuda.hpp"
-                },
-                "region": {
-                  "startLine": 2928,
-                  "startColumn": 32,
-                  "endLine": 2928,
-                  "endColumn": 45,
-                  "charOffset": 110321,
-                  "charLength": 13,
-                  "snippet": {
-                    "text": "strlen(\"sm_\")",
-                    "rendered": {
-                      "text": "strlen(\"sm_\")",
-                      "markdown": "`strlen(\"sm_\")`"
-                    }
-                  },
-                  "sourceLanguage": "cpp"
-                }
-              }
-            }
-          ],
-          "fixes": [
-            {
-              "description": {
-                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
-              },
-              "artifactChanges": [
-                {
-                  "artifactLocation": {
-                    "uri": "jitify2_cuda.hpp"
-                  },
-                  "replacements": [
-                    {
-                      "deletedRegion": {
-                        "charOffset": 110321,
-                        "charLength": 13
-                      },
-                      "insertedContent": {
-                        "text": "strlen_s(\"sm_\", <size of \"sm_\">)"
-                      }
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "description": {
-                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
-              },
-              "artifactChanges": [
-                {
-                  "artifactLocation": {
-                    "uri": "jitify2_cuda.hpp"
-                  },
-                  "replacements": [
-                    {
-                      "deletedRegion": {
-                        "charOffset": 110321,
-                        "charLength": 13
-                      },
-                      "insertedContent": {
-                        "text": "strnlen(\"sm_\", <size of \"sm_\">)"
-                      }
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "properties": {
-            "DevSkimSeverity": "BestPractice",
-            "DevSkimConfidence": "High",
-            "tags": [
-              "API.DangerousAPI.ProblematicFunction"
-            ]
-          }
-        },
-        {
-          "ruleId": "glog-e7677261-6610-4db7-8ccb-53745c44498d",
-          "kind": "fail",
-          "level": "warning",
-          "message": {},
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": "jitify2_hip.hpp"
-                },
-                "region": {
-                  "startLine": 3085,
-                  "startColumn": 48,
-                  "endLine": 3085,
-                  "endColumn": 54,
-                  "charOffset": 114719,
-                  "charLength": 6,
-                  "snippet": {
-                    "text": "getenv",
-                    "rendered": {
-                      "text": "getenv",
-                      "markdown": "`getenv`"
-                    }
-                  },
-                  "sourceLanguage": "cpp"
-                }
-              }
-            }
-          ],
-          "properties": {
-            "DevSkimSeverity": "Moderate",
-            "DevSkimConfidence": "High",
-            "tags": [
-              "API.DangerousAPI.BannedFunction"
-            ]
-          }
-        },
-        {
-          "ruleId": "glog-d616356f-ab1b-48bf-ad08-b2f745a9c0c0",
+          "ruleId": "glog-39580d19-29f4-43f9-9463-658e4349ed27",
           "kind": "fail",
           "level": "note",
           "message": {},
@@ -1378,7 +1314,131 @@
           }
         },
         {
-          "ruleId": "glog-044d678d-b34d-4074-917c-bb721df63a64",
+          "ruleId": "glog-40e36ed5-fef8-41cf-92cd-1375e6fbbe1d",
+          "kind": "fail",
+          "level": "warning",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_hip.hpp"
+                },
+                "region": {
+                  "startLine": 3085,
+                  "startColumn": 48,
+                  "endLine": 3085,
+                  "endColumn": 54,
+                  "charOffset": 114719,
+                  "charLength": 6,
+                  "snippet": {
+                    "text": "getenv",
+                    "rendered": {
+                      "text": "getenv",
+                      "markdown": "`getenv`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Moderate",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-8ade245e-fed2-43bc-84cd-83f5dbd0bc74",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_cuda.hpp"
+                },
+                "region": {
+                  "startLine": 2928,
+                  "startColumn": 32,
+                  "endLine": 2928,
+                  "endColumn": 45,
+                  "charOffset": 110321,
+                  "charLength": 13,
+                  "snippet": {
+                    "text": "strlen(\"sm_\")",
+                    "rendered": {
+                      "text": "strlen(\"sm_\")",
+                      "markdown": "`strlen(\"sm_\")`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_cuda.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 110321,
+                        "charLength": 13
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(\"sm_\", <size of \"sm_\">)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_cuda.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 110321,
+                        "charLength": 13
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(\"sm_\", <size of \"sm_\">)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-c9acf46b-6313-4e2e-90b8-cd79c144481f",
           "kind": "fail",
           "level": "note",
           "message": {},
@@ -1464,7 +1524,7 @@
           }
         },
         {
-          "ruleId": "glog-f25e2898-3c83-44d1-a4f1-59f3fad20a1c",
+          "ruleId": "glog-a3ba2e22-3e5c-4dee-af47-079e859f6c1a",
           "kind": "fail",
           "level": "note",
           "message": {},
@@ -1550,7 +1610,7 @@
           }
         },
         {
-          "ruleId": "glog-004c32ce-7cd5-4201-b30b-ba4b17350f4d",
+          "ruleId": "glog-bbad5491-73e3-42f1-9cfd-d3894e8a8562",
           "kind": "fail",
           "level": "warning",
           "message": {},
@@ -1588,7 +1648,7 @@
           }
         },
         {
-          "ruleId": "glog-0694a29c-e756-44fd-be81-37c44fa70e08",
+          "ruleId": "glog-ae1e61e0-2883-4b0e-af59-2d0c22f4bbdb",
           "kind": "fail",
           "level": "note",
           "message": {},
@@ -1674,7 +1734,7 @@
           }
         },
         {
-          "ruleId": "glog-868fa873-e1e6-48bc-a7c8-3a2444f44589",
+          "ruleId": "glog-7b6b228c-54c8-45dc-883c-9bd136533662",
           "kind": "fail",
           "level": "note",
           "message": {},
@@ -1760,7 +1820,7 @@
           }
         },
         {
-          "ruleId": "glog-5e1ddf5c-135b-42a8-b94b-845ca6d501e5",
+          "ruleId": "glog-55264f00-ff90-4dfc-8e32-ac29de24da6d",
           "kind": "fail",
           "level": "note",
           "message": {},
@@ -1846,7 +1906,7 @@
           }
         },
         {
-          "ruleId": "glog-f2b9f852-63d1-494d-b283-7386de05e0c8",
+          "ruleId": "glog-b2c216a6-9925-4fe8-aebc-87d3b80f14b6",
           "kind": "fail",
           "level": "note",
           "message": {},
@@ -1932,7 +1992,7 @@
           }
         },
         {
-          "ruleId": "glog-0022c64f-b629-4c23-8a24-e22200f8d5b4",
+          "ruleId": "glog-40556b8c-1cdc-45a3-9763-c6f854d889fa",
           "kind": "fail",
           "level": "note",
           "message": {},
@@ -2018,7 +2078,7 @@
           }
         },
         {
-          "ruleId": "glog-b7898988-cef9-4dde-9f1f-b536116abc74",
+          "ruleId": "glog-bc331af3-6176-495e-b6d9-dafb0f41d094",
           "kind": "fail",
           "level": "note",
           "message": {},
@@ -2104,93 +2164,7 @@
           }
         },
         {
-          "ruleId": "glog-8fbb91a8-fb0d-4dd7-9d5b-0cc3c5a10fc9",
-          "kind": "fail",
-          "level": "note",
-          "message": {},
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": "jitify2_hip.hpp"
-                },
-                "region": {
-                  "startLine": 2183,
-                  "startColumn": 35,
-                  "endLine": 2183,
-                  "endColumn": 52,
-                  "charOffset": 78987,
-                  "charLength": 17,
-                  "snippet": {
-                    "text": "strlen(error_log)",
-                    "rendered": {
-                      "text": "strlen(error_log)",
-                      "markdown": "`strlen(error_log)`"
-                    }
-                  },
-                  "sourceLanguage": "cpp"
-                }
-              }
-            }
-          ],
-          "fixes": [
-            {
-              "description": {
-                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
-              },
-              "artifactChanges": [
-                {
-                  "artifactLocation": {
-                    "uri": "jitify2_hip.hpp"
-                  },
-                  "replacements": [
-                    {
-                      "deletedRegion": {
-                        "charOffset": 78987,
-                        "charLength": 17
-                      },
-                      "insertedContent": {
-                        "text": "strlen_s(error_log, <size of error_log>)"
-                      }
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "description": {
-                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
-              },
-              "artifactChanges": [
-                {
-                  "artifactLocation": {
-                    "uri": "jitify2_hip.hpp"
-                  },
-                  "replacements": [
-                    {
-                      "deletedRegion": {
-                        "charOffset": 78987,
-                        "charLength": 17
-                      },
-                      "insertedContent": {
-                        "text": "strnlen(error_log, <size of error_log>)"
-                      }
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "properties": {
-            "DevSkimSeverity": "BestPractice",
-            "DevSkimConfidence": "High",
-            "tags": [
-              "API.DangerousAPI.ProblematicFunction"
-            ]
-          }
-        },
-        {
-          "ruleId": "glog-0a360a65-7f32-45d5-a2f9-1209c743ed0c",
+          "ruleId": "glog-4150ff62-3dbc-4ac9-9348-44e77d6f5ccd",
           "kind": "fail",
           "level": "note",
           "message": {},
@@ -2276,7 +2250,7 @@
           }
         },
         {
-          "ruleId": "glog-9c38a46d-acbe-438e-bf4e-e851163c3a1d",
+          "ruleId": "glog-9c199c19-0046-491c-8247-6f85007f6a90",
           "kind": "fail",
           "level": "note",
           "message": {},
@@ -2287,17 +2261,17 @@
                   "uri": "jitify2_hip.hpp"
                 },
                 "region": {
-                  "startLine": 2182,
-                  "startColumn": 34,
-                  "endLine": 2182,
-                  "endColumn": 50,
-                  "charOffset": 78934,
-                  "charLength": 16,
+                  "startLine": 2183,
+                  "startColumn": 35,
+                  "endLine": 2183,
+                  "endColumn": 52,
+                  "charOffset": 78987,
+                  "charLength": 17,
                   "snippet": {
-                    "text": "strlen(info_log)",
+                    "text": "strlen(error_log)",
                     "rendered": {
-                      "text": "strlen(info_log)",
-                      "markdown": "`strlen(info_log)`"
+                      "text": "strlen(error_log)",
+                      "markdown": "`strlen(error_log)`"
                     }
                   },
                   "sourceLanguage": "cpp"
@@ -2318,11 +2292,11 @@
                   "replacements": [
                     {
                       "deletedRegion": {
-                        "charOffset": 78934,
-                        "charLength": 16
+                        "charOffset": 78987,
+                        "charLength": 17
                       },
                       "insertedContent": {
-                        "text": "strlen_s(info_log, <size of info_log>)"
+                        "text": "strlen_s(error_log, <size of error_log>)"
                       }
                     }
                   ]
@@ -2341,11 +2315,11 @@
                   "replacements": [
                     {
                       "deletedRegion": {
-                        "charOffset": 78934,
-                        "charLength": 16
+                        "charOffset": 78987,
+                        "charLength": 17
                       },
                       "insertedContent": {
-                        "text": "strnlen(info_log, <size of info_log>)"
+                        "text": "strnlen(error_log, <size of error_log>)"
                       }
                     }
                   ]
@@ -2362,7 +2336,7 @@
           }
         },
         {
-          "ruleId": "glog-d9f5bbe7-4565-4c34-b547-59f01ac121aa",
+          "ruleId": "glog-39198da6-310a-4d93-8d50-2b5a3a495d1b",
           "kind": "fail",
           "level": "note",
           "message": {},
@@ -2448,28 +2422,28 @@
           }
         },
         {
-          "ruleId": "glog-dfcb6144-ddc4-45a2-ad7d-98e46161e3f0",
+          "ruleId": "glog-087aeabc-9972-448e-a1d3-d536fb1329d0",
           "kind": "fail",
-          "level": "warning",
+          "level": "note",
           "message": {},
           "locations": [
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "jitify2_cuda.hpp"
+                  "uri": "jitify2_hip.hpp"
                 },
                 "region": {
-                  "startLine": 2181,
-                  "startColumn": 27,
-                  "endLine": 2181,
-                  "endColumn": 31,
-                  "charOffset": 79605,
-                  "charLength": 4,
+                  "startLine": 2182,
+                  "startColumn": 34,
+                  "endLine": 2182,
+                  "endColumn": 50,
+                  "charOffset": 78934,
+                  "charLength": 16,
                   "snippet": {
-                    "text": "atoi",
+                    "text": "strlen(info_log)",
                     "rendered": {
-                      "text": "atoi",
-                      "markdown": "`atoi`"
+                      "text": "strlen(info_log)",
+                      "markdown": "`strlen(info_log)`"
                     }
                   },
                   "sourceLanguage": "cpp"
@@ -2477,92 +2451,64 @@
               }
             }
           ],
-          "properties": {
-            "DevSkimSeverity": "Moderate",
-            "DevSkimConfidence": "High",
-            "tags": [
-              "API.DangerousAPI.BannedFunction"
-            ]
-          }
-        },
-        {
-          "ruleId": "glog-0b132912-0072-4fa1-8af4-8e1a09f01614",
-          "kind": "fail",
-          "level": "warning",
-          "message": {},
-          "locations": [
+          "fixes": [
             {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": "jitify2_cuda.hpp"
-                },
-                "region": {
-                  "startLine": 2176,
-                  "startColumn": 26,
-                  "endLine": 2176,
-                  "endColumn": 30,
-                  "charOffset": 79342,
-                  "charLength": 4,
-                  "snippet": {
-                    "text": "atoi",
-                    "rendered": {
-                      "text": "atoi",
-                      "markdown": "`atoi`"
-                    }
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_hip.hpp"
                   },
-                  "sourceLanguage": "cpp"
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 78934,
+                        "charLength": 16
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(info_log, <size of info_log>)"
+                      }
+                    }
+                  ]
                 }
-              }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_hip.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 78934,
+                        "charLength": 16
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(info_log, <size of info_log>)"
+                      }
+                    }
+                  ]
+                }
+              ]
             }
           ],
           "properties": {
-            "DevSkimSeverity": "Moderate",
+            "DevSkimSeverity": "BestPractice",
             "DevSkimConfidence": "High",
             "tags": [
-              "API.DangerousAPI.BannedFunction"
+              "API.DangerousAPI.ProblematicFunction"
             ]
           }
         },
         {
-          "ruleId": "glog-d6eee37d-eabe-4a93-8946-454e9342381e",
-          "kind": "fail",
-          "level": "warning",
-          "message": {},
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": "jitify2_cuda.hpp"
-                },
-                "region": {
-                  "startLine": 2172,
-                  "startColumn": 22,
-                  "endLine": 2172,
-                  "endColumn": 26,
-                  "charOffset": 79123,
-                  "charLength": 4,
-                  "snippet": {
-                    "text": "atoi",
-                    "rendered": {
-                      "text": "atoi",
-                      "markdown": "`atoi`"
-                    }
-                  },
-                  "sourceLanguage": "cpp"
-                }
-              }
-            }
-          ],
-          "properties": {
-            "DevSkimSeverity": "Moderate",
-            "DevSkimConfidence": "High",
-            "tags": [
-              "API.DangerousAPI.BannedFunction"
-            ]
-          }
-        },
-        {
-          "ruleId": "glog-4109e274-8fd1-4800-b54f-69cd051ea75c",
+          "ruleId": "glog-7cf4b5f1-fb54-4ad7-b089-5184a9b7cff0",
           "kind": "fail",
           "level": "warning",
           "message": {},
@@ -2600,7 +2546,7 @@
           }
         },
         {
-          "ruleId": "glog-9996b67a-e094-4d76-b344-e35265463e44",
+          "ruleId": "glog-c51793a1-bb2d-4ff1-ab52-7462f559ea93",
           "kind": "fail",
           "level": "warning",
           "message": {},
@@ -2616,6 +2562,120 @@
                   "endLine": 2146,
                   "endColumn": 26,
                   "charOffset": 77565,
+                  "charLength": 4,
+                  "snippet": {
+                    "text": "atoi",
+                    "rendered": {
+                      "text": "atoi",
+                      "markdown": "`atoi`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Moderate",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-5c045209-bdf1-47ae-a7fa-736f934c32f9",
+          "kind": "fail",
+          "level": "warning",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_cuda.hpp"
+                },
+                "region": {
+                  "startLine": 2181,
+                  "startColumn": 27,
+                  "endLine": 2181,
+                  "endColumn": 31,
+                  "charOffset": 79605,
+                  "charLength": 4,
+                  "snippet": {
+                    "text": "atoi",
+                    "rendered": {
+                      "text": "atoi",
+                      "markdown": "`atoi`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Moderate",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-358f307a-c004-400e-a133-e391ac8af894",
+          "kind": "fail",
+          "level": "warning",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_cuda.hpp"
+                },
+                "region": {
+                  "startLine": 2176,
+                  "startColumn": 26,
+                  "endLine": 2176,
+                  "endColumn": 30,
+                  "charOffset": 79342,
+                  "charLength": 4,
+                  "snippet": {
+                    "text": "atoi",
+                    "rendered": {
+                      "text": "atoi",
+                      "markdown": "`atoi`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Moderate",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-60817281-1c12-45a5-beab-0368616a79f1",
+          "kind": "fail",
+          "level": "warning",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_cuda.hpp"
+                },
+                "region": {
+                  "startLine": 2172,
+                  "startColumn": 22,
+                  "endLine": 2172,
+                  "endColumn": 26,
+                  "charOffset": 79123,
                   "charLength": 4,
                   "snippet": {
                     "text": "atoi",
