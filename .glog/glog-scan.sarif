@@ -1,0 +1,2647 @@
+{
+  "version": "2.1.0",
+  "runs": [
+    {
+      "tool": {
+        "driver": {
+          "name": "Glog.AI",
+          "organization": "Glog.AI",
+          "fullName": "Glog, Making software more secure",
+          "version": "1.0.0",
+          "semanticVersion": "1.0.0",
+          "informationUri": "https://www.glog.ai",
+          "rules": [
+            {
+              "id": "glog-9fedb29d-0e17-48f7-99e4-63824ffeec91",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS154189"
+                ]
+              }
+            },
+            {
+              "id": "glog-18f3851e-05f1-4afe-9e05-1e129f465abc",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-5a265e7d-7065-4377-aaa8-f2465b131983",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS154189"
+                ]
+              }
+            },
+            {
+              "id": "glog-69cef499-7979-4f75-90ae-30b31152bf68",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS154189"
+                ]
+              }
+            },
+            {
+              "id": "glog-5ca564c2-cec4-4585-b30a-ea106859bd07",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS154189"
+                ]
+              }
+            },
+            {
+              "id": "glog-9acffcaf-1dc6-4401-81e7-d6850a899daa",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS154189"
+                ]
+              }
+            },
+            {
+              "id": "glog-31db7fe7-9deb-4e19-a3f8-887acad4f2d1",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS141863"
+                ]
+              }
+            },
+            {
+              "id": "glog-01d7b738-de44-4fdb-9145-2cdd9e5a24c7",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS141863"
+                ]
+              }
+            },
+            {
+              "id": "glog-7a8a5eb2-0a81-42dc-b11f-e5c9c67c129c",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS185832"
+                ]
+              }
+            },
+            {
+              "id": "glog-4d2fc30a-8f3e-403c-85fb-4bdf4044ea15",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS185832"
+                ]
+              }
+            },
+            {
+              "id": "glog-5abb924d-3653-4e59-8c4a-d0ae6c235ff3",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-90960e02-c5f2-4804-b7f0-ce42c0d58491",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS154189"
+                ]
+              }
+            },
+            {
+              "id": "glog-a1af01e8-6c77-4d5e-bcd9-2eb22c60af10",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-e7677261-6610-4db7-8ccb-53745c44498d",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS154189"
+                ]
+              }
+            },
+            {
+              "id": "glog-d616356f-ab1b-48bf-ad08-b2f745a9c0c0",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-044d678d-b34d-4074-917c-bb721df63a64",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-f25e2898-3c83-44d1-a4f1-59f3fad20a1c",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-004c32ce-7cd5-4201-b30b-ba4b17350f4d",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS154189"
+                ]
+              }
+            },
+            {
+              "id": "glog-0694a29c-e756-44fd-be81-37c44fa70e08",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-868fa873-e1e6-48bc-a7c8-3a2444f44589",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-5e1ddf5c-135b-42a8-b94b-845ca6d501e5",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-f2b9f852-63d1-494d-b283-7386de05e0c8",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-0022c64f-b629-4c23-8a24-e22200f8d5b4",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-b7898988-cef9-4dde-9f1f-b536116abc74",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-8fbb91a8-fb0d-4dd7-9d5b-0cc3c5a10fc9",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-0a360a65-7f32-45d5-a2f9-1209c743ed0c",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-9c38a46d-acbe-438e-bf4e-e851163c3a1d",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-d9f5bbe7-4565-4c34-b547-59f01ac121aa",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-dfcb6144-ddc4-45a2-ad7d-98e46161e3f0",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS154189"
+                ]
+              }
+            },
+            {
+              "id": "glog-0b132912-0072-4fa1-8af4-8e1a09f01614",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS154189"
+                ]
+              }
+            },
+            {
+              "id": "glog-d6eee37d-eabe-4a93-8946-454e9342381e",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS154189"
+                ]
+              }
+            },
+            {
+              "id": "glog-4109e274-8fd1-4800-b54f-69cd051ea75c",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS154189"
+                ]
+              }
+            },
+            {
+              "id": "glog-9996b67a-e094-4d76-b344-e35265463e44",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS154189"
+                ]
+              }
+            }
+          ],
+          "language": "en-US",
+          "contents": [
+            "localizedData",
+            "nonLocalizedData"
+          ],
+          "isComprehensive": false
+        }
+      },
+      "language": "en-US",
+      "results": [
+        {
+          "ruleId": "glog-2d030dee-34a7-4c20-aee2-2f3768f6aedd",
+          "kind": "fail",
+          "level": "warning",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_hip.hpp"
+                },
+                "region": {
+                  "startLine": 5559,
+                  "startColumn": 43,
+                  "endLine": 5559,
+                  "endColumn": 49,
+                  "charOffset": 199815,
+                  "charLength": 6,
+                  "snippet": {
+                    "text": "getenv",
+                    "rendered": {
+                      "text": "getenv",
+                      "markdown": "`getenv`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Moderate",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-9fedb29d-0e17-48f7-99e4-63824ffeec91",
+          "kind": "fail",
+          "level": "warning",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_hip.hpp"
+                },
+                "region": {
+                  "startLine": 5571,
+                  "startColumn": 60,
+                  "endLine": 5571,
+                  "endColumn": 64,
+                  "charOffset": 200350,
+                  "charLength": 4,
+                  "snippet": {
+                    "text": "atoi",
+                    "rendered": {
+                      "text": "atoi",
+                      "markdown": "`atoi`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Moderate",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-18f3851e-05f1-4afe-9e05-1e129f465abc",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_hip.hpp"
+                },
+                "region": {
+                  "startLine": 5566,
+                  "startColumn": 44,
+                  "endLine": 5566,
+                  "endColumn": 57,
+                  "charOffset": 200116,
+                  "charLength": 13,
+                  "snippet": {
+                    "text": "strlen(\"gfx\")",
+                    "rendered": {
+                      "text": "strlen(\"gfx\")",
+                      "markdown": "`strlen(\"gfx\")`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_hip.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 200116,
+                        "charLength": 13
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(\"gfx\", <size of \"gfx\">)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_hip.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 200116,
+                        "charLength": 13
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(\"gfx\", <size of \"gfx\">)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-5a265e7d-7065-4377-aaa8-f2465b131983",
+          "kind": "fail",
+          "level": "warning",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_cuda.hpp"
+                },
+                "region": {
+                  "startLine": 5363,
+                  "startColumn": 8,
+                  "endLine": 5363,
+                  "endColumn": 13,
+                  "charOffset": 194377,
+                  "charLength": 5,
+                  "snippet": {
+                    "text": "ctime",
+                    "rendered": {
+                      "text": "ctime",
+                      "markdown": "`ctime`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Moderate",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-69cef499-7979-4f75-90ae-30b31152bf68",
+          "kind": "fail",
+          "level": "warning",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_cuda.hpp"
+                },
+                "region": {
+                  "startLine": 5414,
+                  "startColumn": 23,
+                  "endLine": 5414,
+                  "endColumn": 27,
+                  "charOffset": 196408,
+                  "charLength": 4,
+                  "snippet": {
+                    "text": "atoi",
+                    "rendered": {
+                      "text": "atoi",
+                      "markdown": "`atoi`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Moderate",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-5ca564c2-cec4-4585-b30a-ea106859bd07",
+          "kind": "fail",
+          "level": "warning",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_hip.hpp"
+                },
+                "region": {
+                  "startLine": 4970,
+                  "startColumn": 21,
+                  "endLine": 4970,
+                  "endColumn": 25,
+                  "charOffset": 177354,
+                  "charLength": 4,
+                  "snippet": {
+                    "text": "atoi",
+                    "rendered": {
+                      "text": "atoi",
+                      "markdown": "`atoi`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Moderate",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-9acffcaf-1dc6-4401-81e7-d6850a899daa",
+          "kind": "fail",
+          "level": "warning",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_hip.hpp"
+                },
+                "region": {
+                  "startLine": 4839,
+                  "startColumn": 8,
+                  "endLine": 4839,
+                  "endColumn": 13,
+                  "charOffset": 171893,
+                  "charLength": 5,
+                  "snippet": {
+                    "text": "ctime",
+                    "rendered": {
+                      "text": "ctime",
+                      "markdown": "`ctime`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Moderate",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-31db7fe7-9deb-4e19-a3f8-887acad4f2d1",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_hip.hpp"
+                },
+                "region": {
+                  "startLine": 3613,
+                  "startColumn": 6,
+                  "endLine": 3613,
+                  "endColumn": 41,
+                  "charOffset": 134506,
+                  "charLength": 35,
+                  "snippet": {
+                    "text": "strcat(char* dest, const char* src)",
+                    "rendered": {
+                      "text": "strcat(char* dest, const char* src)",
+                      "markdown": "`strcat(char* dest, const char* src)`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If the combination of strings is larger than the destination buffer, strcat will cbuffer overflow the destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_hip.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 134506,
+                        "charLength": 35
+                      },
+                      "insertedContent": {
+                        "text": "strcat_s(char* dest, <size of char* dest>,  const char* src)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If the combination of strings is larger than the destination buffer, strcat will cbuffer overflow the destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_hip.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 134506,
+                        "charLength": 35
+                      },
+                      "insertedContent": {
+                        "text": "strlcat(char* dest,  const char* src, <size of char* dest>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-01d7b738-de44-4fdb-9145-2cdd9e5a24c7",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_cuda.hpp"
+                },
+                "region": {
+                  "startLine": 4168,
+                  "startColumn": 6,
+                  "endLine": 4168,
+                  "endColumn": 41,
+                  "charOffset": 157863,
+                  "charLength": 35,
+                  "snippet": {
+                    "text": "strcat(char* dest, const char* src)",
+                    "rendered": {
+                      "text": "strcat(char* dest, const char* src)",
+                      "markdown": "`strcat(char* dest, const char* src)`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If the combination of strings is larger than the destination buffer, strcat will cbuffer overflow the destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_cuda.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 157863,
+                        "charLength": 35
+                      },
+                      "insertedContent": {
+                        "text": "strcat_s(char* dest, <size of char* dest>,  const char* src)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If the combination of strings is larger than the destination buffer, strcat will cbuffer overflow the destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_cuda.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 157863,
+                        "charLength": 35
+                      },
+                      "insertedContent": {
+                        "text": "strlcat(char* dest,  const char* src, <size of char* dest>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-7a8a5eb2-0a81-42dc-b11f-e5c9c67c129c",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_cuda.hpp"
+                },
+                "region": {
+                  "startLine": 4165,
+                  "startColumn": 6,
+                  "endLine": 4165,
+                  "endColumn": 51,
+                  "charOffset": 157734,
+                  "charLength": 45,
+                  "snippet": {
+                    "text": "strcpy(char* destination, const char* source)",
+                    "rendered": {
+                      "text": "strcpy(char* destination, const char* source)",
+                      "markdown": "`strcpy(char* destination, const char* source)`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_cuda.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 157734,
+                        "charLength": 45
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(char* destination, <size of char* destination>,  const char* source)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_cuda.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 157734,
+                        "charLength": 45
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(char* destination,  const char* source, <size of char* destination>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-4d2fc30a-8f3e-403c-85fb-4bdf4044ea15",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_hip.hpp"
+                },
+                "region": {
+                  "startLine": 3610,
+                  "startColumn": 6,
+                  "endLine": 3610,
+                  "endColumn": 51,
+                  "charOffset": 134377,
+                  "charLength": 45,
+                  "snippet": {
+                    "text": "strcpy(char* destination, const char* source)",
+                    "rendered": {
+                      "text": "strcpy(char* destination, const char* source)",
+                      "markdown": "`strcpy(char* destination, const char* source)`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_hip.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 134377,
+                        "charLength": 45
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(char* destination, <size of char* destination>,  const char* source)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_hip.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 134377,
+                        "charLength": 45
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(char* destination,  const char* source, <size of char* destination>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-5abb924d-3653-4e59-8c4a-d0ae6c235ff3",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_cuda.hpp"
+                },
+                "region": {
+                  "startLine": 3412,
+                  "startColumn": 16,
+                  "endLine": 3412,
+                  "endColumn": 29,
+                  "charOffset": 128701,
+                  "charLength": 13,
+                  "snippet": {
+                    "text": "strlen(token)",
+                    "rendered": {
+                      "text": "strlen(token)",
+                      "markdown": "`strlen(token)`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_cuda.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 128701,
+                        "charLength": 13
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(token, <size of token>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_cuda.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 128701,
+                        "charLength": 13
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(token, <size of token>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-90960e02-c5f2-4804-b7f0-ce42c0d58491",
+          "kind": "fail",
+          "level": "warning",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_cuda.hpp"
+                },
+                "region": {
+                  "startLine": 2937,
+                  "startColumn": 20,
+                  "endLine": 2937,
+                  "endColumn": 24,
+                  "charOffset": 110543,
+                  "charLength": 4,
+                  "snippet": {
+                    "text": "atoi",
+                    "rendered": {
+                      "text": "atoi",
+                      "markdown": "`atoi`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Moderate",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-a1af01e8-6c77-4d5e-bcd9-2eb22c60af10",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_cuda.hpp"
+                },
+                "region": {
+                  "startLine": 2928,
+                  "startColumn": 32,
+                  "endLine": 2928,
+                  "endColumn": 45,
+                  "charOffset": 110321,
+                  "charLength": 13,
+                  "snippet": {
+                    "text": "strlen(\"sm_\")",
+                    "rendered": {
+                      "text": "strlen(\"sm_\")",
+                      "markdown": "`strlen(\"sm_\")`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_cuda.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 110321,
+                        "charLength": 13
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(\"sm_\", <size of \"sm_\">)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_cuda.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 110321,
+                        "charLength": 13
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(\"sm_\", <size of \"sm_\">)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-e7677261-6610-4db7-8ccb-53745c44498d",
+          "kind": "fail",
+          "level": "warning",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_hip.hpp"
+                },
+                "region": {
+                  "startLine": 3085,
+                  "startColumn": 48,
+                  "endLine": 3085,
+                  "endColumn": 54,
+                  "charOffset": 114719,
+                  "charLength": 6,
+                  "snippet": {
+                    "text": "getenv",
+                    "rendered": {
+                      "text": "getenv",
+                      "markdown": "`getenv`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Moderate",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-d616356f-ab1b-48bf-ad08-b2f745a9c0c0",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_hip.hpp"
+                },
+                "region": {
+                  "startLine": 2894,
+                  "startColumn": 16,
+                  "endLine": 2894,
+                  "endColumn": 29,
+                  "charOffset": 107062,
+                  "charLength": 13,
+                  "snippet": {
+                    "text": "strlen(token)",
+                    "rendered": {
+                      "text": "strlen(token)",
+                      "markdown": "`strlen(token)`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_hip.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 107062,
+                        "charLength": 13
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(token, <size of token>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_hip.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 107062,
+                        "charLength": 13
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(token, <size of token>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-044d678d-b34d-4074-917c-bb721df63a64",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_cuda.hpp"
+                },
+                "region": {
+                  "startLine": 2925,
+                  "startColumn": 32,
+                  "endLine": 2925,
+                  "endColumn": 50,
+                  "charOffset": 110198,
+                  "charLength": 18,
+                  "snippet": {
+                    "text": "strlen(\"compute_\")",
+                    "rendered": {
+                      "text": "strlen(\"compute_\")",
+                      "markdown": "`strlen(\"compute_\")`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_cuda.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 110198,
+                        "charLength": 18
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(\"compute_\", <size of \"compute_\">)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_cuda.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 110198,
+                        "charLength": 18
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(\"compute_\", <size of \"compute_\">)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-f25e2898-3c83-44d1-a4f1-59f3fad20a1c",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_hip.hpp"
+                },
+                "region": {
+                  "startLine": 2523,
+                  "startColumn": 32,
+                  "endLine": 2523,
+                  "endColumn": 45,
+                  "charOffset": 93419,
+                  "charLength": 13,
+                  "snippet": {
+                    "text": "strlen(\"gfx\")",
+                    "rendered": {
+                      "text": "strlen(\"gfx\")",
+                      "markdown": "`strlen(\"gfx\")`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_hip.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 93419,
+                        "charLength": 13
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(\"gfx\", <size of \"gfx\">)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_hip.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 93419,
+                        "charLength": 13
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(\"gfx\", <size of \"gfx\">)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-004c32ce-7cd5-4201-b30b-ba4b17350f4d",
+          "kind": "fail",
+          "level": "warning",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_hip.hpp"
+                },
+                "region": {
+                  "startLine": 2532,
+                  "startColumn": 20,
+                  "endLine": 2532,
+                  "endColumn": 24,
+                  "charOffset": 93627,
+                  "charLength": 4,
+                  "snippet": {
+                    "text": "atoi",
+                    "rendered": {
+                      "text": "atoi",
+                      "markdown": "`atoi`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Moderate",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-0694a29c-e756-44fd-be81-37c44fa70e08",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_cuda.hpp"
+                },
+                "region": {
+                  "startLine": 2907,
+                  "startColumn": 21,
+                  "endLine": 2907,
+                  "endColumn": 41,
+                  "charOffset": 109668,
+                  "charLength": 20,
+                  "snippet": {
+                    "text": "strlen(\"--gpu-name\")",
+                    "rendered": {
+                      "text": "strlen(\"--gpu-name\")",
+                      "markdown": "`strlen(\"--gpu-name\")`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_cuda.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 109668,
+                        "charLength": 20
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(\"--gpu-name\", <size of \"--gpu-name\">)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_cuda.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 109668,
+                        "charLength": 20
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(\"--gpu-name\", <size of \"--gpu-name\">)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-868fa873-e1e6-48bc-a7c8-3a2444f44589",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_hip.hpp"
+                },
+                "region": {
+                  "startLine": 2506,
+                  "startColumn": 21,
+                  "endLine": 2506,
+                  "endColumn": 41,
+                  "charOffset": 92925,
+                  "charLength": 20,
+                  "snippet": {
+                    "text": "strlen(\"--gpu-name\")",
+                    "rendered": {
+                      "text": "strlen(\"--gpu-name\")",
+                      "markdown": "`strlen(\"--gpu-name\")`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_hip.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 92925,
+                        "charLength": 20
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(\"--gpu-name\", <size of \"--gpu-name\">)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_hip.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 92925,
+                        "charLength": 20
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(\"--gpu-name\", <size of \"--gpu-name\">)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-5e1ddf5c-135b-42a8-b94b-845ca6d501e5",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_cuda.hpp"
+                },
+                "region": {
+                  "startLine": 2905,
+                  "startColumn": 21,
+                  "endLine": 2905,
+                  "endColumn": 49,
+                  "charOffset": 109546,
+                  "charLength": 28,
+                  "snippet": {
+                    "text": "strlen(\"--gpu-architecture\")",
+                    "rendered": {
+                      "text": "strlen(\"--gpu-architecture\")",
+                      "markdown": "`strlen(\"--gpu-architecture\")`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_cuda.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 109546,
+                        "charLength": 28
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(\"--gpu-architecture\", <size of \"--gpu-architecture\">)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_cuda.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 109546,
+                        "charLength": 28
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(\"--gpu-architecture\", <size of \"--gpu-architecture\">)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-f2b9f852-63d1-494d-b283-7386de05e0c8",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_hip.hpp"
+                },
+                "region": {
+                  "startLine": 2504,
+                  "startColumn": 21,
+                  "endLine": 2504,
+                  "endColumn": 49,
+                  "charOffset": 92805,
+                  "charLength": 28,
+                  "snippet": {
+                    "text": "strlen(\"--gpu-architecture\")",
+                    "rendered": {
+                      "text": "strlen(\"--gpu-architecture\")",
+                      "markdown": "`strlen(\"--gpu-architecture\")`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_hip.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 92805,
+                        "charLength": 28
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(\"--gpu-architecture\", <size of \"--gpu-architecture\">)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_hip.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 92805,
+                        "charLength": 28
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(\"--gpu-architecture\", <size of \"--gpu-architecture\">)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-0022c64f-b629-4c23-8a24-e22200f8d5b4",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_cuda.hpp"
+                },
+                "region": {
+                  "startLine": 2903,
+                  "startColumn": 21,
+                  "endLine": 2903,
+                  "endColumn": 36,
+                  "charOffset": 109449,
+                  "charLength": 15,
+                  "snippet": {
+                    "text": "strlen(\"-arch\")",
+                    "rendered": {
+                      "text": "strlen(\"-arch\")",
+                      "markdown": "`strlen(\"-arch\")`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_cuda.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 109449,
+                        "charLength": 15
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(\"-arch\", <size of \"-arch\">)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_cuda.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 109449,
+                        "charLength": 15
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(\"-arch\", <size of \"-arch\">)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-b7898988-cef9-4dde-9f1f-b536116abc74",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_hip.hpp"
+                },
+                "region": {
+                  "startLine": 2502,
+                  "startColumn": 21,
+                  "endLine": 2502,
+                  "endColumn": 45,
+                  "charOffset": 92699,
+                  "charLength": 24,
+                  "snippet": {
+                    "text": "strlen(\"--offload-arch\")",
+                    "rendered": {
+                      "text": "strlen(\"--offload-arch\")",
+                      "markdown": "`strlen(\"--offload-arch\")`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_hip.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 92699,
+                        "charLength": 24
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(\"--offload-arch\", <size of \"--offload-arch\">)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_hip.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 92699,
+                        "charLength": 24
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(\"--offload-arch\", <size of \"--offload-arch\">)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-8fbb91a8-fb0d-4dd7-9d5b-0cc3c5a10fc9",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_hip.hpp"
+                },
+                "region": {
+                  "startLine": 2183,
+                  "startColumn": 35,
+                  "endLine": 2183,
+                  "endColumn": 52,
+                  "charOffset": 78987,
+                  "charLength": 17,
+                  "snippet": {
+                    "text": "strlen(error_log)",
+                    "rendered": {
+                      "text": "strlen(error_log)",
+                      "markdown": "`strlen(error_log)`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_hip.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 78987,
+                        "charLength": 17
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(error_log, <size of error_log>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_hip.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 78987,
+                        "charLength": 17
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(error_log, <size of error_log>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-0a360a65-7f32-45d5-a2f9-1209c743ed0c",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_cuda.hpp"
+                },
+                "region": {
+                  "startLine": 2241,
+                  "startColumn": 35,
+                  "endLine": 2241,
+                  "endColumn": 52,
+                  "charOffset": 82067,
+                  "charLength": 17,
+                  "snippet": {
+                    "text": "strlen(error_log)",
+                    "rendered": {
+                      "text": "strlen(error_log)",
+                      "markdown": "`strlen(error_log)`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_cuda.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 82067,
+                        "charLength": 17
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(error_log, <size of error_log>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_cuda.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 82067,
+                        "charLength": 17
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(error_log, <size of error_log>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-9c38a46d-acbe-438e-bf4e-e851163c3a1d",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_hip.hpp"
+                },
+                "region": {
+                  "startLine": 2182,
+                  "startColumn": 34,
+                  "endLine": 2182,
+                  "endColumn": 50,
+                  "charOffset": 78934,
+                  "charLength": 16,
+                  "snippet": {
+                    "text": "strlen(info_log)",
+                    "rendered": {
+                      "text": "strlen(info_log)",
+                      "markdown": "`strlen(info_log)`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_hip.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 78934,
+                        "charLength": 16
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(info_log, <size of info_log>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_hip.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 78934,
+                        "charLength": 16
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(info_log, <size of info_log>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-d9f5bbe7-4565-4c34-b547-59f01ac121aa",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_cuda.hpp"
+                },
+                "region": {
+                  "startLine": 2240,
+                  "startColumn": 34,
+                  "endLine": 2240,
+                  "endColumn": 50,
+                  "charOffset": 82014,
+                  "charLength": 16,
+                  "snippet": {
+                    "text": "strlen(info_log)",
+                    "rendered": {
+                      "text": "strlen(info_log)",
+                      "markdown": "`strlen(info_log)`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_cuda.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 82014,
+                        "charLength": 16
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(info_log, <size of info_log>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "jitify2_cuda.hpp"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 82014,
+                        "charLength": 16
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(info_log, <size of info_log>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-dfcb6144-ddc4-45a2-ad7d-98e46161e3f0",
+          "kind": "fail",
+          "level": "warning",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_cuda.hpp"
+                },
+                "region": {
+                  "startLine": 2181,
+                  "startColumn": 27,
+                  "endLine": 2181,
+                  "endColumn": 31,
+                  "charOffset": 79605,
+                  "charLength": 4,
+                  "snippet": {
+                    "text": "atoi",
+                    "rendered": {
+                      "text": "atoi",
+                      "markdown": "`atoi`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Moderate",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-0b132912-0072-4fa1-8af4-8e1a09f01614",
+          "kind": "fail",
+          "level": "warning",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_cuda.hpp"
+                },
+                "region": {
+                  "startLine": 2176,
+                  "startColumn": 26,
+                  "endLine": 2176,
+                  "endColumn": 30,
+                  "charOffset": 79342,
+                  "charLength": 4,
+                  "snippet": {
+                    "text": "atoi",
+                    "rendered": {
+                      "text": "atoi",
+                      "markdown": "`atoi`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Moderate",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-d6eee37d-eabe-4a93-8946-454e9342381e",
+          "kind": "fail",
+          "level": "warning",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_cuda.hpp"
+                },
+                "region": {
+                  "startLine": 2172,
+                  "startColumn": 22,
+                  "endLine": 2172,
+                  "endColumn": 26,
+                  "charOffset": 79123,
+                  "charLength": 4,
+                  "snippet": {
+                    "text": "atoi",
+                    "rendered": {
+                      "text": "atoi",
+                      "markdown": "`atoi`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Moderate",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-4109e274-8fd1-4800-b54f-69cd051ea75c",
+          "kind": "fail",
+          "level": "warning",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_hip.hpp"
+                },
+                "region": {
+                  "startLine": 2151,
+                  "startColumn": 27,
+                  "endLine": 2151,
+                  "endColumn": 31,
+                  "charOffset": 77835,
+                  "charLength": 4,
+                  "snippet": {
+                    "text": "atoi",
+                    "rendered": {
+                      "text": "atoi",
+                      "markdown": "`atoi`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Moderate",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-9996b67a-e094-4d76-b344-e35265463e44",
+          "kind": "fail",
+          "level": "warning",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "jitify2_hip.hpp"
+                },
+                "region": {
+                  "startLine": 2146,
+                  "startColumn": 22,
+                  "endLine": 2146,
+                  "endColumn": 26,
+                  "charOffset": 77565,
+                  "charLength": 4,
+                  "snippet": {
+                    "text": "atoi",
+                    "rendered": {
+                      "text": "atoi",
+                      "markdown": "`atoi`"
+                    }
+                  },
+                  "sourceLanguage": "cpp"
+                }
+              }
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Moderate",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        }
+      ],
+      "newlineSequences": [
+        "\r\n",
+        "\n"
+      ]
+    }
+  ]
+}
